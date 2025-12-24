@@ -1,4 +1,3 @@
-
 # Multimodal Healthcare Prior Authorization System
 
 ## Overview
@@ -15,4 +14,3 @@ This system combines Vision-Language Models (VLMs), RAG, and Agentic Workflows t
 2. `source venv/bin/activate` (or `venv\Scripts\activate` on Windows)
 3. `pip install -r requirements.txt`
 4. `cp .env.example .env` (and add your API keys)
-
