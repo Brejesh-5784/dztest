@@ -1,0 +1,7 @@
+{
+    "patient_name": "",
+    "doctor_name": "",
+    "diagnosis": null,
+    "medications": [],
+    "is_handwritten": true
+}

@@ -1,0 +1,38 @@
+
+langchain
+langchain-openai
+langchain-google-genai
+langgraph
+pinecone-client
+pydantic
+streamlit
+python-dotenv
+llama-index
+llama-parse
+
+# Core AI & Vision
+langchain-google-genai   # For Gemini 1.5 Pro
+langchain-core           # Core LangChain utilities
+
+# Data Validation
+pydantic                 # For defining your OutputParser
+
+# Utilities
+python-dotenv            # For .env file management
+pillow                   # Image processing (pip install Pillow)
+
+
+ipykernel
+matplotlib
+
+
+sentence-transformers==2.2.2
+langchain
+flask
+pypdf
+python-dotenv
+pinecone-client[grpc]
+langchain-pinecone
+langchain_community
+langchain_openai
+langchain_experimental

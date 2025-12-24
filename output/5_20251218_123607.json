@@ -1,0 +1,28 @@
+{
+    "patient_name": "Sonia",
+    "doctor_name": "Dr. M. S.",
+    "diagnosis": null,
+    "medications": [
+        {
+            "name": "Ephedrex syrup",
+            "dosage": "3.5ml",
+            "frequency": "twice daily"
+        },
+        {
+            "name": "Crocin DS syrup",
+            "dosage": "4ml",
+            "frequency": "as needed"
+        },
+        {
+            "name": "Meftal-P syrup",
+            "dosage": "4ml",
+            "frequency": "as needed"
+        },
+        {
+            "name": "Ephedrex syrup",
+            "dosage": "4ml",
+            "frequency": "twice daily"
+        }
+    ],
+    "is_handwritten": true
+}

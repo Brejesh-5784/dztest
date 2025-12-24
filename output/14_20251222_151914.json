@@ -1,0 +1,23 @@
+{
+    "patient_name": "Ajay Sethi",
+    "doctor_name": "Dr. Ajay Sahdev",
+    "diagnosis": "COVID positive",
+    "medications": [
+        {
+            "name": "REMDEC",
+            "dosage": "200 mg",
+            "frequency": "STAT"
+        },
+        {
+            "name": "REMDEC",
+            "dosage": "100 mg",
+            "frequency": "twice daily for 4 days"
+        },
+        {
+            "name": "Actemra",
+            "dosage": "400 mg",
+            "frequency": "once daily for 2 doses, with a 2-day gap between doses"
+        }
+    ],
+    "is_handwritten": true
+}

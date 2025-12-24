@@ -1,0 +1,23 @@
+{
+    "patient_name": "C. B. Froward",
+    "doctor_name": "N. M. Rhodes",
+    "diagnosis": null,
+    "medications": [
+        {
+            "name": "Cocaine Hydrochloride",
+            "dosage": "9 grains",
+            "frequency": "Apply locally"
+        },
+        {
+            "name": "Adrenaline",
+            "dosage": "3 minims",
+            "frequency": "Apply locally"
+        },
+        {
+            "name": "Saline Solution (Normal)",
+            "dosage": "Quantity sufficient to make 3 fluid ounces",
+            "frequency": "Apply locally"
+        }
+    ],
+    "is_handwritten": true
+}

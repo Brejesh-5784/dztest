@@ -1,0 +1,13 @@
+{
+    "patient_name": "Unknown",
+    "doctor_name": "Dr. Peak",
+    "diagnosis": "Pain",
+    "medications": [
+        {
+            "name": "PARACETAMOL",
+            "dosage": "1g",
+            "frequency": "QDS"
+        }
+    ],
+    "is_handwritten": true
+}

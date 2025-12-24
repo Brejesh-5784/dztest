@@ -1,0 +1,13 @@
+{
+    "patient_name": "Unknown",
+    "doctor_name": "PDenkR",
+    "diagnosis": null,
+    "medications": [
+        {
+            "name": "PARACETAMOL",
+            "dosage": "1g",
+            "frequency": "QDS"
+        }
+    ],
+    "is_handwritten": true
+}

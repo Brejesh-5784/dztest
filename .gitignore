@@ -1,0 +1,17 @@
+
+# Environments
+.env
+venv/
+env/
+__pycache__/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/raw_policies/*
+data/medical_images/*
+!data/raw_policies/.gitkeep
+!data/medical_images/.gitkeep

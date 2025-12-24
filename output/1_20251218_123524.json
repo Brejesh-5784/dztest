@@ -1,0 +1,13 @@
+{
+    "patient_name": "Patient 30",
+    "doctor_name": "Dr B. Who",
+    "diagnosis": null,
+    "medications": [
+        {
+            "name": "Digoxin",
+            "dosage": "0.125 mg",
+            "frequency": "one tablet once daily"
+        }
+    ],
+    "is_handwritten": true
+}

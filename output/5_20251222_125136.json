@@ -1,0 +1,28 @@
+{
+    "patient_name": "Unknown Patient",
+    "doctor_name": "Illegible Signature",
+    "diagnosis": null,
+    "medications": [
+        {
+            "name": "Ephedrex Syrup",
+            "dosage": "3.5ml",
+            "frequency": "twice daily"
+        },
+        {
+            "name": "Crecin DS Syrup",
+            "dosage": "4ml",
+            "frequency": "Not specified"
+        },
+        {
+            "name": "Meftal-P Syrup",
+            "dosage": "4ml",
+            "frequency": "Not specified"
+        },
+        {
+            "name": "Ephedrex Syrup",
+            "dosage": "4ml",
+            "frequency": "twice daily"
+        }
+    ],
+    "is_handwritten": true
+}
